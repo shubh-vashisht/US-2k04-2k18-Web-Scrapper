@@ -1,0 +1,15 @@
+2004: Boston-Cambridge-Quincy,* MA-NH       15423    8204     800     382    6037     295
+2005: Boston-Cambridge-Quincy,* MA-NH       17442    8318     792     420    7912     346
+2006: Boston-Cambridge-Quincy,* MA-NH       13916    6167     758     589    6402     234
+2007: Boston-Cambridge-Quincy,* MA-NH       11248    5305     434     280    5229     262
+2008: Boston-Cambridge-Quincy,* MA-NH        7634    3382     274     184    3794     206
+2009: 148 14460 Boston-Cambridge-Quincy,* MA-NH        5476    3073     192     163    2048     133
+2010: 148 14460 Boston-Cambridge-Quincy,* MA-NH        6672    3748     182     185    2557     170
+2011: 148 14460 Boston-Cambridge-Quincy,* MA-NH        6139    3394     284     140    2321     131
+2012: 148 14460 Boston-Cambridge-Quincy,* MA-NH        8851    4126     246     189    4290     182
+2013: 148 14460 Boston-Cambridge-Quincy,* MA-NH       12021    4953     290     272    6506     184
+2014: 148 14460 Boston-Cambridge-Quincy,* MA-NH       12024    4991     306     245    6482     225
+2015: 148 14460 Boston-Cambridge-Newton,* MA-NH       15036    4844     410     319    9463     258
+2016: 148 14460 Boston-Cambridge-Newton,* MA-NH       13247    5243     516     318    7170     246
+2017: 148 14460 Boston-Cambridge-Newton,* MA-NH       14757    4949     490     292    9026     291
+2018: 148 14460 Boston-Cambridge-Newton,* MA-NH       14183    4930     546     343    8364     297
